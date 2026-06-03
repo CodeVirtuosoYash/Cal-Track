@@ -143,3 +143,10 @@ vite.config.ts.timestamp-*
 .vite/
 
 .expo
+
+.expo/
+node_modules/
+dist/
+build/
+*.apk
+*.aab
